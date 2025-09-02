@@ -30,7 +30,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://www.dropbox.com/scl/fi/lbpvg2vx2zi5p8hwrl5w4/ResumeAvriti-6.pdf?rlkey=hhbyaikxq4d0c8w99xwndphby&st=0zoe2mma&dl=0"  target="_blank"
+                href="https://www.dropbox.com/scl/fi/3hqv6kkqei4f0lqug991x/AvritiResume.pdf?rlkey=yf96pyeomyk0kn9qxzp1jav87&st=txepugvb&dl=0"  target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV

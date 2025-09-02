@@ -59,7 +59,7 @@ export const ContactSection = () => {
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
          <span className="text-lg"> Open to new roles, freelance gigs, or coding collabs</span> 
-          <br /><i className="text-sm">Drop me a message I, respond faster than my React components rerender.</i>
+          <br /><i className="text-sm">Drop me a message, I respond faster than my React components rerender.</i>
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -69,8 +69,8 @@ export const ContactSection = () => {
               Contact Information
             </h3>
 
-            <div className="space-y-6 justify-center">
-              <div className="flex items-start space-x-4">
+            <div className="space-y-6 justify-self-center">
+              <div className="flex items-start space-x-1">
                 <div className="p-3 rounded-full bg-primary/10">
                   <Mail className="h-6 w-6 text-primary" />{" "}
                 </div>
@@ -84,7 +84,8 @@ export const ContactSection = () => {
                   </a>
                 </div>
               </div>
-              <div className="flex items-start  space-x-4">
+
+              <div className="flex items-start  space-x-6">
                 <div className="p-3 rounded-full bg-primary/10">
                   <Phone className="h-6 w-6 text-primary" />{" "}
                 </div>
@@ -92,23 +93,24 @@ export const ContactSection = () => {
                   <h4 className=" font-medium"> Phone</h4>
                   <a
                     href="tel:8076402257"
-                    className="text-muted-foreground hover:text-primary transition-colors"
-                  >
-                    8076402257
+                    className="text-muted-foreground hover:text-primary transition-colors "
+                  >+91 8076402257
                   </a>
                 </div>
               </div>
-              <div className="flex items-start space-x-4">
+
+              <div className="flex items-start space-x-11">
                 <div className="p-3 rounded-full bg-primary/10">
                   <MapPin className="h-6 w-6 text-primary" />{" "}
                 </div>
                 <div>
                   <h4 className="font-medium"> Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
-                    Faridabad ,Haryana
+                    Faridabad, Haryana
                   </a>
                 </div>
               </div>
+
             </div>
 
             <div className="pt-8">

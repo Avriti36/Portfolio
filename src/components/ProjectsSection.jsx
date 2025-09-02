@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects=[
      { id:1,
-    title:"NEEPCO Portal",
-    description:" a landing page for company which displays the information about the company and its structure ",
+    title:"Netflix-GPT",
+    description:" An intelligent recommendation system leveraging GPT to provide tailored Netflix suggestions, reviews, and summaries for improved user engagement.",
     image:"/project.png",
-    tags:["React", "Bootstrap", "Node","Express"],
+    tags:["React", "Tailwind", "Firebase","Redux"],
     demoUrl:"#",
-    githubUrl:"https://github.com/Avriti36/NEEPCO1",
+    githubUrl:"https://github.com/Avriti36/Netflix-GPT",
 },
 {
     id:2,
