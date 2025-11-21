@@ -5,9 +5,9 @@ const projects=[
      { id:1,
     title:"Netflix-GPT",
     description:" An intelligent recommendation system leveraging GPT to provide tailored Netflix suggestions, reviews, and summaries for improved user engagement.",
-    image:"/project.png",
+    image:"/NetflixGPT.png",
     tags:["React", "Tailwind", "Firebase","Redux"],
-    demoUrl:"#",
+    demoUrl:"https://streaming-app-gpt.netlify.app/",
     githubUrl:"https://github.com/Avriti36/Netflix-GPT",
 },
 {
